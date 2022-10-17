@@ -4,4 +4,4 @@
 - 🌱 I love building beautiful interfaces, web apps, mobile app and everything in between! 
 - 💼  My [Personal Portfoil](majd-sufyan.site)
 - ✨ I’m currently looking to join a new team of creative designers and developers
-- 📫 If you think we might be a good fit for one another, give me a (+972527239826) 📞  or send me an (majdnewsufian@gmail.com) 📧.
+- 📫 If you think we might be a good fit for one another, give me a (+972527239826 | +4917620481700) 📞  or send me an (majdnewsufian@gmail.com) 📧.
