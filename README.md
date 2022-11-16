@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Majd-sufian
+- 👋 Hi, I’m @Majd-sufian 
 - 👀 I am a software developer
 - 🚀 I am passionate about digital products that help people experience everyday life, not endure it
 - 🌱 I love building beautiful interfaces, web apps, mobile app and everything in between! 
