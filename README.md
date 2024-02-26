@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m @Majd-sufyan <br>👀 I am a full-stack software developer<br> 🔭 I’m currently working on an educational learning platform and a few other projects<br>🌱 I’m currently learning a bit of everything<br>💬 Ask me about anything, especially as long as its about web dev or micro frontends in particular<br>👯 I am interested in partnering on building beautiful interfaces, web apps, mobile app and everything in between! <br>📫 If you think we might be a good fit for one another, you can reach me on Mail and LinkedIn<br>😄 Pronouns: He/him
+👋 Hi, I’m @Majd-sufyan <br>
+👀 I am a full-stack software developer<br>
+🔭 I’m currently working on an [educational learning platform](https://rockettutor.de/) and a few other projects<br>
+🌱 I’m currently learning a bit of everything<br>💬 Ask me about anything, especially as long as its about web dev or micro frontends in particular<br>
+👯 I am interested in partnering on building beautiful interfaces, web apps, mobile app and everything in between! <br>
+📫 If you think we might be a good fit for one another, you can reach me on [Mail](mailto:majdnewsufian@gmail.com) and [LinkedIn](https://www.linkedin.com/in/majd-sufyan/)<br>
+😄 Pronouns: He/him
 
 
 # 💻 Tech Stack:
